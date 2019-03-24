@@ -1842,103 +1842,6 @@ body {
 .cid-rkZRixNDiZ .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
 }
-.cid-rl4UxeOQvG {
-  padding-top: 15px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rl4UxeOQvG .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rl4UxeOQvG .number-wrap {
-  color: #232323;
-  border-color: rgba(255, 255, 255, 0.15);
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  padding: 5px 10px 13px 10px;
-  margin: 0;
-  min-width: 118px;
-  border-radius: 2px;
-  max-width: 100%;
-}
-.cid-rl4UxeOQvG .number {
-  font-style: normal;
-  font-weight: 700;
-  text-transform: none;
-  letter-spacing: -2px;
-  font-size: 55px;
-  word-spacing: 0;
-  line-height: 1.3;
-  color: #c90f0f;
-}
-.cid-rl4UxeOQvG .period {
-  display: block;
-  padding-top: 2px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-.cid-rl4UxeOQvG .dot {
-  position: absolute;
-  top: -10px;
-  right: -1em;
-  width: 1em;
-  display: block;
-  font-size: 55px;
-  height: 83%;
-  overflow: hidden;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 89.65px;
-  text-transform: none;
-  letter-spacing: 0;
-  word-spacing: 0;
-  color: #c90f0f;
-}
-.cid-rl4UxeOQvG .countdown-cont {
-  background: linear-gradient(45deg, #149dcc, #ffffff);
-  max-width: 700px;
-  border-radius: 3px;
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rl4UxeOQvG .dot {
-    display: none;
-  }
-  .cid-rl4UxeOQvG .col-xs-3 {
-    padding-left: 0;
-    padding-right: 0;
-    max-width: 25%;
-    flex: 0 0 25%;
-  }
-  .cid-rl4UxeOQvG .number-wrap {
-    min-width: auto;
-  }
-}
-@media (max-width: 576px) {
-  .cid-rl4UxeOQvG .row {
-    flex-wrap: nowrap;
-  }
-  .cid-rl4UxeOQvG .number {
-    white-space: nowrap;
-  }
-}
-@media (max-width: 440px) {
-  .cid-rl4UxeOQvG .number {
-    font-size: 30px;
-  }
-  .cid-rl4UxeOQvG .period {
-    font-size: 0.8rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-rl4UxeOQvG .number {
-    font-size: 20px;
-  }
-  .cid-rl4UxeOQvG .period {
-    font-size: 0.6rem;
-  }
-}
 .cid-rkZKJEINjY {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2006,13 +1909,17 @@ body {
 .cid-rl54h67o6m {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rl54h67o6m .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
+  text-align: center;
 }
 .cid-rl54h67o6m .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rl54h67o6m H2 {
+  text-align: center;
 }
 .cid-rl5ik64c4C {
   padding-top: 60px;
