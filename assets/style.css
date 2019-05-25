@@ -42,7 +42,7 @@ h2 {
     display:none;
     height: 40px;
     position: fixed;
-    bottom: 0;
+    bottom: 3;
     z-index: 1000;
     background: #ff0000;
     box-shadow: 0 -150px 70px -120px #f90404 inset, 0 -220px 70px -120px #f1e905 inset, 0 -280px 70px -120px #ff002f inset;
