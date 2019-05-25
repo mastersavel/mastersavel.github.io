@@ -49,7 +49,7 @@ h2 {
     animation: background 2s infinite alternate;
     width: 100%;
     text-align: center;
-    padding: 20px 0;
+    padding: 40px 0;
     font-size: 32px;
 }
 @keyframes background {
